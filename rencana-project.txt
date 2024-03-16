@@ -4,3 +4,4 @@ Rencana Project:
 - Buat web toko online
 - Buat web sistem akademik sekolah
 - Buat web portfolio
+- Memperdalam framework Laravel
